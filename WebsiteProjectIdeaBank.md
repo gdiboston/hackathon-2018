@@ -1,6 +1,7 @@
 
 # Project Ideas
-	Need an idea? Look here to get inspired. Have an extra great idea that you won’t be using? Drop it in the Slack channel! 
+	Need an idea? Look here to get inspired. Have an extra great idea that you won’t be using? 
+	Drop it in the Slack channel! 
 	
 - Portfolio page 
 Photo
