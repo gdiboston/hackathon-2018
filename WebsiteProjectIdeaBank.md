@@ -1,5 +1,5 @@
 
-#Project Ideas
+# Project Ideas
 	Need an idea? Look here to get inspired. Have an extra great idea that you won’t be using? Drop it in the Slack channel! 
 	
 - Portfolio page 
@@ -92,14 +92,14 @@ Forms
 
 Getting started with Github
 New to Github? Here’s how to get started: 
-Create an account here: https://github.com/
-Try out this tutorial to learn the basics: https://guides.github.com/activities/hello-world/
-Commit your project as you go
+1. Create an account here: https://github.com/
+2. Try out this tutorial to learn the basics: https://guides.github.com/activities/hello-world/
+3. Commit your project as you go
 Make sure to commit your final project to the master branch before the end of the day! 
 
 
 
-Resources: 
+## Resources: 
 Find a great resource? Share it on Slack! 
 Mozilla Developer Network: https://developer.mozilla.org/en-US/
 W3 Schools: https://www.w3schools.com/
