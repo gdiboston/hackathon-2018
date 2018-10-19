@@ -1,4 +1,4 @@
-Ideas for Mobile Projects
+### Ideas for Mobile Projects
 
 Trackers (Expense, Calorie, etc)
 To Do List
